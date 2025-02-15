@@ -10,3 +10,6 @@ This is for floor 1 by the way, so if you're gonna try it in floor 2, that ain't
 - Your executor needs to support require
   Yep. That's all.
   # This is in beta by the way so expect some bugs (good luck on the seek chase by the way)
+
+# Please
+Report any bugs and send them here: [discord](https://discord.gg/pNvHfcJhxx)
